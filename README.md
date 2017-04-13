@@ -1,5 +1,7 @@
 ScrapLaCentrale
 ===============
+** this project is out of date : https://groups.google.com/forum/#!topic/phantomjs/9aI5d-LDuNE
+
 
 * Problématique  
   Le site de [La Centrale](http://www.lacentrale.fr/lacote_origine.php) présente les cotes des voitures d'occasion.
